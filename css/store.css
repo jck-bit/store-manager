@@ -1,0 +1,84 @@
+body{
+	margin-top: 20px;
+	font-family:sans-serif;
+	background-image: url(IMG_2878-Recovered.jpg)
+}   
+.head{
+	line-height: 1em;
+	font-size: 39px;
+	letter-spacing: -4px;
+	text-align: center;
+	font-weight: bold;
+
+}
+label{
+	display: block;
+}
+.rui{
+
+	width: 150px;
+	height: 45px;
+	background-color: #fff;
+	text-align: center;
+	line-height: 45px;
+	border-radius: 10px;
+}
+.jack{
+	background-color: #1868;
+    width: 350px;
+	height: 550px;
+	margin: auto;
+	display: block;
+	letter-spacing: 0.5px;
+	border-radius: 4%
+}
+.jack{
+	float: right;
+	padding-right: 80px;
+}
+
+.side{
+	float:left;
+	width: 400px;
+	height: 400px;
+	padding-top: 150px;
+	padding-left: 170px;
+	font-weight: bold;
+}
+ 
+img{
+	padding-left: 45px;
+	padding-bottom:20px;
+	padding-top: 10px;
+
+}
+.data{
+	padding-left: 25px;
+}
+form li{
+	list-style: none;
+	margin-bottom: 20px;
+}
+
+.pass{
+	color: red;
+	padding-right: 25px;
+	padding-top:  10px;
+
+}
+.para{
+	padding-right: 15px;
+}
+
+a{
+	text-decoration: none;
+} 
+
+.box{
+	width: 200px;
+	height: 50px;
+	background-color: #fff;
+	line-height: 50px;
+	text-align: center;
+	border-radius: 10px;
+}

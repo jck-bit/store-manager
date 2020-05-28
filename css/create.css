@@ -1,0 +1,40 @@
+body{
+	margin: auto;
+	font: bold;
+	font-style: italic;
+	background-image: url(IMG_2878-Recovered.jpg);
+
+}
+form li{
+	list-style: none;
+	margin-bottom: 30px;
+	padding-left: 60px;
+}
+label{
+	display: block;
+}
+.label{
+	width: 400px;
+	height: 550px;
+	margin: auto;
+	background: #1868;
+	border-radius: 4%;
+	display: block;
+
+}
+
+.indent{
+
+	padding-left:  15px;
+	padding-top: 20px;
+}
+.box{
+	width: 200px;
+	height: 50px;
+	background: #fff;
+	line-height: 50px;
+	border-radius: 10px;
+	text-align: center;
+
+}
+
